@@ -1,4 +1,2 @@
-# TecBlog
- Primeiro site criado em Html e css.
-
-Repositório criado durante estudos de Html e Css.
+# Tecblog
+ Meu primeiro projeto de Html e css
